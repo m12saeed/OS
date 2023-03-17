@@ -5,9 +5,7 @@ code <a href="https://github.com/m12saeed/OS/blob/main/R_R/src/RoundRobin.java">
 <img src="https://github.com/m12saeed/OS/blob/main/Outputs/Round_Robin%20Output.png" height= "300" width="250">
 
 </br>
-</br>
-</br>
-</br>
+
 Shortest Job First (SJF) is a type of disk scheduling algorithm in the operating system in which the processor executes the job first that has the smallest execution time. In the shortest Job First algorithm, the processes are scheduled according to the burst time of these processes.
 code <a href="https://github.com/m12saeed/OS/blob/main/SJF/src/SJF/SJF.java"> SJF </a>
 
