@@ -2,6 +2,7 @@
 Assignment 1 OS ( RR-SJF)
 The Round-robin scheduling algorithm is a kind of preemptive First come, First Serve CPU Scheduling algorithm where each process in the ready state gets the CPU for a fixed time in a cyclic way (turn by turn). It is the oldest scheduling algorithm, which is mainly used for multitasking.
 code <a href="https://github.com/m12saeed/OS/blob/main/R_R/src/RoundRobin.java">RoundRobin code</a>
+</br>
 <img src="https://github.com/m12saeed/OS/blob/main/Outputs/Round_Robin%20Output.png" height= "300" width="250">
 
 </br>
